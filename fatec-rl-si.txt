@@ -1,0 +1,31 @@
+﻿
+<!--
+Título de página (title) coerente, com H1 equivalente
+Adicionar um comentário qualquer de autoria: <!-- -->
+Adicionar o logo da Fatec acima da sentença "FATEC/RL - Sistemas para Internet"
+A sentença "Tecnólogo em Sistemas para Internet“ (primeira linha do texto) deve ser "semanticamente forte"
+O texto abaixo de "Critérios de seleção" deve conter um link para a URL www.vestibularfatec.com.br
+O conteúdo de "Vagas do curso por período" deve ser transformado em uma tabela (4 linhas, 2 colunas)
+O logo da FATEC/RL deve apontar para www.fatecrl.edu.br
+-->
+ FATEC/RL - Sistemas para Internet
+
+
+Perfil do profissional
+
+O Tecnólogo em Sistemas para Internet ocupa-se do desenvolvimento de programas, de interfaces e aplicativos, do comércio e do marketing eletrônicos, além de sítios e portais para internet e intranet. Este profissional gerencia projetos de sistemas, inclusive com acesso a banco de dados, desenvolvendo projetos de aplicações para a rede mundial de computadores e integra mídias nos sítios da internet. Atua com tecnologias emergentes como computação móvel, redes sem fio e sistemas distribuídos e cuida da implantação, atualização, manutenção e segurança dos sistemas para internet.
+
+
+Vagas do curso por período
+
+Período			Vagas
+Diurno			40
+Vespertino		
+Noturno			
+
+
+Critérios de seleção
+
+Informações sobre o processo seletivo da FATEC/RL podem ser encontradas neste link.
+
+
