@@ -31,10 +31,14 @@ th {
 
 th, td {
   border: 1px solid #A3130D;
+  text-align: center;
 }
 
 .periodo {
   background-color: #A3130D;
-  color:#fff
+  color:#fff;
+  font-weight: 600;
 }
+
+
 
